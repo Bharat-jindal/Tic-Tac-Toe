@@ -1,0 +1,47 @@
+.ticbox{
+    display: inline-block;
+    width: 6vw;
+    height:6vw;
+    border: 2px solid white;
+    margin: 0px;
+    cursor: pointer;
+}
+
+.ticboxCross{
+    display: inline-block;
+    width: 6vw;
+    height:6vw;
+    border: 2px solid white;
+    margin: 0px;
+    background-image: url('../../assets/cross.png');
+    background-size: cover;
+}
+
+.ticboxCircle{
+    display: inline-block;
+    width: 6vw;
+    height:6vw;
+    border: 2px solid white;
+    margin: 0px;
+    background-image: url('../../assets/circle.png');
+    background-size: cover;
+}
+
+.reloadButton{
+    box-sizing: border-box;
+    background-color: yellow;
+    color: black;
+    width: 20%;
+    height: 10%;
+    position: fixed;
+    bottom: 5vh;
+    left:40%;
+    border-radius: 50%;
+}
+
+.MainBox{
+    position: fixed;
+    top: 35%;
+    width:22vw;
+    left: 40vw
+}

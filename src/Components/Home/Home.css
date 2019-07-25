@@ -1,0 +1,30 @@
+.Home{
+    color: white
+}
+
+.ChooseOptions {
+    box-sizing: border-box;
+    color: white;
+    width:50vw;
+    left:25vw;
+    position: fixed;
+    top:35vh;
+    font-size: large;
+}
+
+.Checkbox {
+    box-sizing: border-box;
+    position: fixed;
+    left: 35vw;
+}
+
+.submmitButton {
+    box-sizing: border-box;
+    margin: auto;
+    cursor: pointer;
+    background-color: yellow;
+    color: black;
+    border-radius: 30%;
+    height: 50px;
+    width: 150px;
+}
